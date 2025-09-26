@@ -1,0 +1,13 @@
+{
+  "name": "simple-ci-node",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "eslint": "^8.44.0"
+  }
+}
